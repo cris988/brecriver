@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<acquisizione ora="23:31:23">
+  <stazionamento>
+    <azione>
+      <tipo>fermo</tipo>
+      <tempo>23:31:23,715</tempo>
+    </azione>
+    <azione>
+      <tipo>in movimento</tipo>
+      <tempo>23:31:27,295</tempo>
+    </azione>
+    <azione>
+      <tipo>fermo</tipo>
+      <tempo>23:31:37,775</tempo>
+    </azione>
+    <azione>
+      <tipo>in movimento</tipo>
+      <tempo>23:31:39,895</tempo>
+    </azione>
+  </stazionamento>
+  <girata>
+    <azione>
+      <tipo>sinistra</tipo>
+      <tempo>23:31:29,955</tempo>
+    </azione>
+    <azione>
+      <tipo>terminata</tipo>
+      <tempo>23:31:31,755</tempo>
+    </azione>
+    <azione>
+      <tipo>destra</tipo>
+      <tempo>23:31:34,615</tempo>
+    </azione>
+    <azione>
+      <tipo>terminata</tipo>
+      <tempo>23:31:36,435</tempo>
+    </azione>
+  </girata>
+  <posizionamento>
+    <azione>
+      <tipo>sdraiato</tipo>
+      <tempo>23:31:23,715</tempo>
+    </azione>
+  </posizionamento>
+</acquisizione>

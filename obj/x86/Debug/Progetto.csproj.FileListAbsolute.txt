@@ -1,0 +1,29 @@
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto.about.resources
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto.Form1.resources
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto.Properties.Resources.resources
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto Brecriver.exe
+\\Mac\Home\Downloads\brecriver\trunk\Progetto\Progetto\obj\x86\Debug\Progetto Brecriver.pdb
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto Brecriver.exe
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto Brecriver.pdb
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto.about.resources
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto.Form1.resources
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto.Properties.Resources.resources
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto.csproj.GenerateResource.Cache
+C:\Users\cristian\Desktop\Progetto\bin\Debug\Progetto Brecriver.exe.manifest
+C:\Users\cristian\Desktop\Progetto\bin\Debug\Progetto Brecriver.application
+C:\Users\cristian\Desktop\Progetto\bin\Debug\Progetto Brecriver.exe
+C:\Users\cristian\Desktop\Progetto\bin\Debug\Progetto Brecriver.pdb
+C:\Users\cristian\Desktop\Progetto\bin\Debug\ZedGraph.dll
+C:\Users\cristian\Desktop\Progetto\bin\Debug\ZedGraph.resources.dll
+C:\Users\cristian\Desktop\Progetto\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto Brecriver.exe.manifest
+C:\Users\cristian\Desktop\Progetto\obj\x86\Debug\Progetto Brecriver.application
+\\Mac\Home\Desktop\brecriver\Progetto\obj\x86\Debug\Progetto Brecriver.exe
+\\Mac\Home\Desktop\brecriver\Progetto\obj\x86\Debug\Progetto Brecriver.pdb
+\\Mac\Home\CloudStation\Documenti\Uni\Progetti\Progetto .NET\Progetto\obj\x86\Debug\Progetto Brecriver.exe
+\\Mac\Home\CloudStation\Documenti\Uni\Progetti\Progetto .NET\Progetto\obj\x86\Debug\Progetto Brecriver.pdb
+\\Mac\Home\CloudStation\Documenti\Uni\Progetti\Progetto .NET\Code\obj\x86\Debug\Progetto Brecriver.exe
+\\Mac\Home\CloudStation\Documenti\Uni\Progetti\Progetto .NET\Code\obj\x86\Debug\Progetto Brecriver.pdb
